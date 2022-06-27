@@ -1,0 +1,19 @@
+{
+  "name": "chemistry",
+  "version": "1.0.0",
+  "description": "Pack for Chemistry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragadhesh/chemistry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragadhesh/chemistry/issues"
+  },
+  "homepage": "https://github.com/Pragadhesh/chemistry#readme"
+}
