@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Pragadhesh/chemistry/issues"
   },
-  "homepage": "https://github.com/Pragadhesh/chemistry#readme"
+  "homepage": "https://github.com/Pragadhesh/chemistry#readme",
+  "dependencies": {
+    "@codahq/packs-sdk": "^1.0.1",
+    "compound-parser": "^1.0.5",
+    "molarmass.js": "^1.1.0",
+    "node-periodic-table": "^0.0.6"
+  }
 }
