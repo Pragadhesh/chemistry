@@ -34,6 +34,21 @@ const FormulaParameter = coda.makeParameter({
   });
 
 // Formula for the pack
+
+pack.addFormula({
+  name: "periodictable",
+  description: "Gets the periodic table",
+  parameters: [],
+  resultType: coda.ValueType.String,
+  codaType: coda.ValueHintType.ImageReference,
+  execute: async function ([], context) {
+    return "https://visionlearning.com/images/figure-images/52-a.jpg"
+  },
+});
+
+// Allow the pack to make requests to  API.
+pack.addNetworkDomain("visionlearning.com");
+
 pack.addFormula(
   {
   // Usage symbol <symbol> - Retruns the element details associated with the Symbol
