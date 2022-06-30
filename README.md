@@ -72,8 +72,7 @@ Below is an example of how you can instruct your audience on installing and sett
     ```sh
    npm install
    ```
-4. Create an API Key and add it to coda.json
-5. Run it locally using npm coda execute pack.ts <function name> <arguments>
+3. Run it locally using npm coda execute pack.ts <function name> <arguments>
       ```sh
    npm coda execute pack.tx <functionname> <arguments>
    ```
