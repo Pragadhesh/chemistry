@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Pragadhesh/chemistry">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/atom.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Chemistry Pack</h3>
