@@ -19,11 +19,6 @@
 
 There are many great Document editors present however, I didn't find one that really suited my needs to help writing document on chemistry
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
