@@ -18,6 +18,7 @@
 ## About The Project
 
 There are many great Document editors present however, I didn't find one that really suited my needs to help writing document on chemistry
+This pack comes with functions that helps to address the common problems everyone are facing during writing any documentation related to chemical elements.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
